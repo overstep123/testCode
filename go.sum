@@ -1,0 +1,6 @@
+github.com/johntech-o/gorpc v0.0.0-20190508161658-a63b4699b194 h1:bvaTWS2Cxbm36MlXCn4cpFQ1rhW85TvpwhZaO6fYuUs=
+github.com/johntech-o/gorpc v0.0.0-20190508161658-a63b4699b194/go.mod h1:TNsWGQP9gh9uwg00gstF7/xJXhwcBFefUHUw9da2Khc=
+github.com/johntech-o/timewheel v0.0.0-20170621084024-0dfaa51dd881 h1:/scIVZhsyoUogSRfLopfR3G17lI+snsPqRomCw9c11A=
+github.com/johntech-o/timewheel v0.0.0-20170621084024-0dfaa51dd881/go.mod h1:p2MvJ4lTnqkbaxdDbMOZZu4Ssd8VFSJgCFKJcO2oHyA=
+github.com/qmessenger/gokeeper v1.0.0 h1:3eN5Yz/fcyACVIAu6wo0cbSxKe5p0eIrJeW4DTQsVNM=
+github.com/qmessenger/gokeeper v1.0.0/go.mod h1:XZONX/b8qcxabDKgF1hOrwYN0DEBS2qwuOq14RNm9ik=
